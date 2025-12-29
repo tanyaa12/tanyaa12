@@ -9,7 +9,7 @@ and solving meaningful problems through technology 🚀
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanya-chandra-36349b281/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/tanyaa_1202)
+[![Email](https://img.shields.io/badge/Email-pink?style=for-the-badge&logo=email)](https://mail.google.com/mail/u/1/#inbox)
 
 ---
 
