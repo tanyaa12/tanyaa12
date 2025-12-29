@@ -40,7 +40,8 @@ and solving meaningful problems through technology 🚀
 - 🏥 **HealthMate** – AI-powered healthcare recommendation system  
 - 🌿 **Plant Disease Detection** – CNN-based crop disease classifier  
 - 🚨 **Women Safety Analytics** – Smart SOS & health monitoring system  
-- 🎮 **Hangman Game** – Interactive JavaScript game  
+- 🎮 **Hangman Game** – Interactive JavaScript game
+- Real-Time Object Detection using YOLOv8
 
 ---
 
